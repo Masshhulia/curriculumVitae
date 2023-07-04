@@ -82,3 +82,8 @@ class PrimeNumber {
   - Highlighted personal strengths, motivation, and commitment to learning and embracing new challenges.
   - Leveraged creativity to design a visually appealing and professional CV layout.
 
+## Courses and Training
+
+- Introduction to Java - Epam
+- .NET Development - Epam
+- Java course level 1 - Dmdev
