@@ -74,3 +74,11 @@ class PrimeNumber {
 }
 
 ``` 
+## Work Experience
+
+- **CV Project**
+  - Created a comprehensive CV using Markdown language to showcase skills, educational background, and aspirations.
+  - Demonstrated proficiency in organizing information, utilizing formatting techniques, and presenting content effectively.
+  - Highlighted personal strengths, motivation, and commitment to learning and embracing new challenges.
+  - Leveraged creativity to design a visually appealing and professional CV layout.
+
