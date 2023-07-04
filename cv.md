@@ -25,3 +25,52 @@ I am highly motivated to succeed as a Java developer and I am willing to put in 
 - **Website Builders (Tilda, Wix):** Proficient in using Tilda and Wix to create professional websites. Skilled in customizing templates, designing layouts, and adding interactive elements. 
 - **Scientific Writing and Research:** Proficient in writing scientific articles and conducting research. Experienced in conducting literature reviews, designing experiments, collecting and analyzing data, and interpreting results. Skilled in writing clear and concise scientific reports, adhering to citation and formatting guidelines. Actively involved in academic research projects, collaborating with teams to contribute to the advancement of knowledge in the field.
 
+
+## Code Examples
+```java
+// Example program in Java to calculate the factorial of a number
+public class Factorial {
+    public static void main(String[] args) {
+        int number = 5;
+        int factorial = 1;
+        
+        for (int i = 1; i <= number; i++) {
+            factorial *= i;
+        }
+        
+        System.out.println("The factorial of " + number + " is: " + factorial);
+    }
+}
+
+``` 
+```c#
+// Example program in C# to check if a number is prime
+using System;
+
+class PrimeNumber {
+    static bool IsPrime(int number) {
+        if (number < 2) {
+            return false;
+        }
+        
+        for (int i = 2; i <= Math.Sqrt(number); i++) {
+            if (number % i == 0) {
+                return false;
+            }
+        }
+        
+        return true;
+    }
+    
+    static void Main() {
+        int number = 17;
+        
+        if (IsPrime(number)) {
+            Console.WriteLine(number + " is a prime number.");
+        } else {
+            Console.WriteLine(number + " is not a prime number.");
+        }
+    }
+}
+
+``` 
