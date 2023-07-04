@@ -87,3 +87,6 @@ class PrimeNumber {
 - Introduction to Java - Epam
 - .NET Development - Epam
 - Java course level 1 - Dmdev
+
+## English Level
+- B1
