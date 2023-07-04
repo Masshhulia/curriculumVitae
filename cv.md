@@ -15,3 +15,13 @@ I am a highly determined individual with a strong aspiration to become a Java de
 One of my key strengths is my quick learning ability. I easily adapt to new situations and rapidly absorb new knowledge and skills. I have a strong desire to learn and grow, enabling me to quickly grasp new concepts and technologies related to Java development.
 
 I am highly motivated to succeed as a Java developer and I am willing to put in the effort to achieve this goal. I strive to work on projects that are both challenging and have a real impact in the business world. I am eager to collaborate in a team environment and learn from experienced developers.
+
+## Skills
+- Programming Languages: C#, Java, JavaScript
+- Frameworks: Spring, .NET Framework
+- Version Control Systems: Git
+- Development Tools: Visual Studio Code, IntelliJ IDEA
+- **3D Modeling (Maya, Blender):** Beginner level. Familiarity with Maya software and basic 3D modeling techniques. Currently expanding skills in creating simple 3D models, working with textures, and learning about lighting and animation. Excited to further develop proficiency in Maya and take on more complex projects.
+- **Website Builders (Tilda, Wix):** Proficient in using Tilda and Wix to create professional websites. Skilled in customizing templates, designing layouts, and adding interactive elements. 
+- **Scientific Writing and Research:** Proficient in writing scientific articles and conducting research. Experienced in conducting literature reviews, designing experiments, collecting and analyzing data, and interpreting results. Skilled in writing clear and concise scientific reports, adhering to citation and formatting guidelines. Actively involved in academic research projects, collaborating with teams to contribute to the advancement of knowledge in the field.
+
