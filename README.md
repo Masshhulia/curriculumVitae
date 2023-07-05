@@ -1,2 +1,2 @@
 # curriculumVitae
-[Ссылка на CV](https://Masshhulia.github.io/Markdown/cv)
+[Ссылка на CV](https://masshhulia.github.io/curriculumVitae/cv)
